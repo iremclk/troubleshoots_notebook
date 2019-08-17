@@ -10,11 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# kullanıcı adı parola phpmail
 
-
-SERVER -> CLIENT: 535-5.7.8 Username and Password not accepted. Learn more at535 5.7.8 https://support.google.com/mail/?p=BadCredentials 31sm5142207oto.18 - gsmtp
-SMTP ERROR: Password command failed: 535-5.7.8 Username and Password not accepted. Learn more at535 5.7.8 https://support.google.com/mail/?p=BadCredentials 31sm5142207oto.18 - gsmtp
 SMTP Error: Could not authenticate..
 
 ## Header 2
