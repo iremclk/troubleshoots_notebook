@@ -1,6 +1,4 @@
-## Blog Page
-
-This website contains troubleshoots of some errors.
+## Troubleshoots
 
 You can find of them below link.
 
