@@ -12,7 +12,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+SERVER -> CLIENT: 535-5.7.8 Username and Password not accepted. Learn more at535 5.7.8 https://support.google.com/mail/?p=BadCredentials 31sm5142207oto.18 - gsmtp
+SMTP ERROR: Password command failed: 535-5.7.8 Username and Password not accepted. Learn more at535 5.7.8 https://support.google.com/mail/?p=BadCredentials 31sm5142207oto.18 - gsmtp
+SMTP Error: Could not authenticate..
 
 ## Header 2
 
