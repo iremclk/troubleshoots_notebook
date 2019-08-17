@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# bad credentials using gmail smtp
+# kullanıcı adı parola phpmail
 
 
 SERVER -> CLIENT: 535-5.7.8 Username and Password not accepted. Learn more at535 5.7.8 https://support.google.com/mail/?p=BadCredentials 31sm5142207oto.18 - gsmtp
