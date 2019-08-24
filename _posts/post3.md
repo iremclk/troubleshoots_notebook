@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<h1>İlk Post</h1>
+<h1>üçüncü Post</h1>
 </body>
 </html>
